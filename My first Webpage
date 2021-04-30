@@ -1,0 +1,29 @@
+<html>
+<head>
+ <title>My First Webpage</title>
+</head>
+<body>
+ <h1>My final project!</h1>
+<h2>Welcome -^_^-</h2>
+ <p>
+  Hi there<br>
+  This text is on another line.<br>
+  Yet Another line!<br>
+ </p>
+ <p>
+  <i>Italic text</i>
+  <b>Bold text</b>
+</p>
+<p>
+ <ul><b>Unordered List</b>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+ </ul>
+ <ol><b>Ordered List</b>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+ </ol>
+<body>
+</html>
