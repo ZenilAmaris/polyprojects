@@ -1,6 +1,6 @@
-## Welcome to Polyprojects
+## Zenil Amaris
 
-### Markdown
+### This is my first website, thank you!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
