@@ -5,27 +5,22 @@
 The below is a list of contents in my website.
 
 ```markdown
-Contents
+_Contents_
 
-# Homr
-## About me
-### Fablab Safety
-#### Tools
-##### Web Development
-###### CAD
-####### 3D Printing
-######## Laser Cutting
-######### Computer Controlled machining
-########## 3D machining, molding and casting
-########### Electronics Production 
-############ EP1000 Final Project
-############# EP1001 Final Project
+- Home
+- About me
+- Fablab Safety
+- Tools
+- Web Development
+- CAD
+- 3D Printing
+- Laser Cutting
+- Computer Controlled machining
+- 3D machining, molding and casting
+- Electronics Production 
+- EP1000 Final Project
+- EP1001 Final Project
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
