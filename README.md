@@ -2,14 +2,24 @@
 
 ### This is my first website, thank you!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The below is a list of contents in my website.
 
 ```markdown
-Syntax highlighted code block
+Contents
 
-# Header 1
-## Header 2
-### Header 3
+# Homr
+## About me
+### Fablab Safety
+#### Tools
+##### Web Development
+###### CAD
+####### 3D Printing
+######## Laser Cutting
+######### Computer Controlled machining
+########## 3D machining, molding and casting
+########### Electronics Production 
+############ EP1000 Final Project
+############# EP1001 Final Project
 
 - Bulleted
 - List
