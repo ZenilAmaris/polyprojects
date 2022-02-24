@@ -19,10 +19,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://zenilamaris.github.io/polyprojects/](Ashley's website) and ![Image](src)
+[Ashley's website](https://zenilamaris.github.io/polyprojects/) and ![image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+This is [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
