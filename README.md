@@ -22,7 +22,7 @@ Syntax highlighted code block
  ![image](src)
 ```
 
-This is [Ashley's website](https://zenilamaris.github.io/polyprojects/).
+This is [Ashley's website](index.html).
 
 ### Jekyll Themes
 
